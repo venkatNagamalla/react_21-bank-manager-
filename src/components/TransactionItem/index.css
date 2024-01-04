@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+.history-title,
+.history-amount,
+.history-amount-type {
+  width: 30%;
+  height: 50px;
+  padding-left: 10px;
+  display: flex;
+  align-items: center;
+  color: #334155;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.delete-btn {
+  border: none;
+  background-color: transparent;
+}
+
+.delete-img {
+  width: 30px;
+}
